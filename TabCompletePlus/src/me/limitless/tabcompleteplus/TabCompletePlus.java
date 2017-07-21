@@ -14,6 +14,7 @@ public class TabCompletePlus extends JavaPlugin
 	public void onEnable()
 	{
 		instance = this;
+		//TESTING
 		Bukkit.getConsoleSender().sendMessage("TabCompletePlus");
 	}
 	
